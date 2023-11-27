@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gabrieloliveira/Desktop/grafos/exercicio ppt 3/exercicio 1/com malloc/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z14imprime_matrizPA5_i, symObjAddr: 0x0, symBinAddr: 0x100003CD0, symSize: 0xBC }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: __Z14imprime_matrizPA5_i, symObjAddr: 0x0, symBinAddr: 0x100003CD0, symSize: 0xBC }
+  - { offsetInCU: 0xA1, offset: 0xA1, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xBC, symBinAddr: 0x100003D8C, symSize: 0x1A0 }
+...

@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gabrieloliveira/Desktop/grafos/extras/grafo orientado/estatico/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z16inicializarGrafoP5Grafoi, symObjAddr: 0x0, symBinAddr: 0x100003B4C, symSize: 0xAC }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: __Z16inicializarGrafoP5Grafoi, symObjAddr: 0x0, symBinAddr: 0x100003B4C, symSize: 0xAC }
+  - { offsetInCU: 0xAF, offset: 0xAF, size: 0x8, addend: 0x0, symName: __Z15adicionarArestaP5Grafoii, symObjAddr: 0xAC, symBinAddr: 0x100003BF8, symSize: 0x3C }
+  - { offsetInCU: 0xF3, offset: 0xF3, size: 0x8, addend: 0x0, symName: __Z13imprimirGrafoP5Grafo, symObjAddr: 0xE8, symBinAddr: 0x100003C34, symSize: 0xDC }
+  - { offsetInCU: 0x153, offset: 0x153, size: 0x8, addend: 0x0, symName: __Z27mostrarEntradaSaidaVerticesP5Grafo, symObjAddr: 0x1C4, symBinAddr: 0x100003D10, symSize: 0x128 }
+  - { offsetInCU: 0x1DD, offset: 0x1DD, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2EC, symBinAddr: 0x100003E38, symSize: 0xE0 }
+...
